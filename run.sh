@@ -1,7 +1,7 @@
 #!/bin/bash                                                                                                                                                                             
                                                                                                                                                                                         
-DIR_IN="/mnt/nas/photo/"                                                                                                                                                                
-DIR_OUT="/mnt/nas/photo_out/"                                                                                                                                                           
+DIR_IN="/my/input/"                                                                                                                                                                
+DIR_OUT="/my/output/"                                                                                                                                                           
                                                                                                                                                                                         
 LOOP_DELAY=1                                                                                                                                                                            
 LOOP_INTERVAL=100
